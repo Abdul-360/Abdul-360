@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul
 
-    🔭 I’m currently working on Profile website.
+    🔭 I’m currently working on My own Profile website.
 
     🌱 I’m currently learning app development and web development.
 
